@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/逃生門與電子鎖.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "逃生門與電子鎖"
+              "title": "_index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/逃生門與電子鎖.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 逃生門與電子鎖"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/逃生門與電子鎖.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 逃生門與電子鎖"
+              "title": "Outgoing links from _index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/逃生門與電子鎖.md",
+                "file": "content/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 逃生門與電子鎖"
+              "title": "Outline of _index"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "5f7d5558023386b4",
   "lastOpenFiles": [
-    "content/posts/花名.md",
     "content/posts/逃生門與電子鎖.md",
+    "content/posts/花名.md",
     "public/images/img1_hu_7a2d7aed16b691bb.webp",
     "resources/_gen/images/images/img1_hu_7a2d7aed16b691bb.webp",
     "public/images/img1_hu_91ad41e7f3e1ec9a.webp",
