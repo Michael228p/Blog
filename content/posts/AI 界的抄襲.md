@@ -22,9 +22,6 @@ tags:
   - 討論
 ---
 
-{{ $readingTime := div (float .WordCount) .Site.Params.reading_speed }}
-{{ $readingTime = math.Ceil $readingTime }}
-
 兩日之前（2月25日），香港發布咗最新研究嘅HKGAI V1：
 
 > 大家上午好！今天我非常高興出席InnoHK香港生成式人工智能研發中心（HKGAI）V1大模型全球首發發布會，大家共同見證這項標誌性科研成果的問世，這也是香港人工智能發展的重要里程碑。——創新科技及工業局局長孫東

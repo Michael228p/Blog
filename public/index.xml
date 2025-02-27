@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/ai-%E7%95%8C%E7%9A%84%E6%8A%84%E8%A5%B2/</link>
       <pubDate>Thu, 27 Feb 2025 21:25:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/ai-%E7%95%8C%E7%9A%84%E6%8A%84%E8%A5%B2/</guid>
-      <description>{{ $readingTime := div (float .WordCount) .Site.Params.reading_speed }} {{ $readingTime = math.Ceil $readingTime }}
-兩日之前（2月25日），香港發布咗最新研究嘅HKGAI V1：
+      <description>兩日之前（2月25日），香港發布咗最新研究嘅HKGAI V1：
 大家上午好！今天我非常高興出席InnoHK香港生成式人工智能研發中心（HKGAI）V1大模型全球首發發布會，大家共同見證這項標誌性科研成果的問世，這也是香港人工智能發展的重要里程碑。——創新科技及工業局局長孫東
 但係，呢個 AI 模型係建基於先前發布嘅 DeepSeek，「將DeepSeek完美的底座模型架構與HKGAI模型非常傑出的數據處理功能有機結合，充分體現了在香港『一國兩制』的價值觀」。
 雖然我唔知道 AI 發展同一國兩制有咩關係，但係我哋可以睇吓網友們嘅睇法：
