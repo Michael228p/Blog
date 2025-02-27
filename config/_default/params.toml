@@ -38,7 +38,7 @@ enableSearch = true
 # Homepage settings
 [homepage]
 # Whether to show recent items on the homepage.
-showRecent = true
+showRecent = false
 # Heading label for recent items.
 showRecentLabel = "Featured"
 # Number of recent items to show.

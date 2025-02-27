@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Michael 嘅棲息地</title>
+    <link>http://localhost:1313/zh/</link>
+    <description>Recent content on Michael 嘅棲息地</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh-HK</language>
+    <lastBuildDate>Thu, 27 Feb 2025 21:25:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 界的抄襲</title>
+      <link>http://localhost:1313/zh/ai-%E7%95%8C%E7%9A%84%E6%8A%84%E8%A5%B2/</link>
+      <pubDate>Thu, 27 Feb 2025 21:25:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/ai-%E7%95%8C%E7%9A%84%E6%8A%84%E8%A5%B2/</guid>
+      <description>兩日之前（2月25日），香港發布咗最新研究嘅HKGAI V1：
+大家上午好！今天我非常高興出席InnoHK香港生成式人工智能研發中心（HKGAI）V1大模型全球首發發布會，大家共同見證這項標誌性科研成果的問世，這也是香港人工智能發展的重要里程碑。——創新科技及工業局局長孫東
+但係，呢個 AI 模型係建基於先前發布嘅 DeepSeek，「將DeepSeek完美的底座模型架構與HKGAI模型非常傑出的數據處理功能有機結合，充分體現了在香港『一國兩制』的價值觀」。
+雖然我唔知道 AI 發展同一國兩制有咩關係，但係我哋可以睇吓網友們嘅睇法：
+HKGAI V1 同 DeepSeek 有冇抄襲？ 事實係點我唔可以一概而論，不過喺 programming 嘅世界入面，我哋又真係不斷「抄襲」嘅。
+</description>
+    </item>
+    <item>
+      <title>逃生門與電子鎖</title>
+      <link>http://localhost:1313/zh/%E9%80%83%E7%94%9F%E9%96%80%E8%88%87%E9%9B%BB%E5%AD%90%E9%8E%96/</link>
+      <pubDate>Thu, 27 Feb 2025 00:20:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/%E9%80%83%E7%94%9F%E9%96%80%E8%88%87%E9%9B%BB%E5%AD%90%E9%8E%96/</guid>
+      <description>最近，我喺宿舍發現一件好不可思議嘅事。
+你睇吓道逃生門嘅右邊，竟然安裝咗一個電子鎖！你哋可能對呢種鎖唔係好認識。有裝上呢種鎖嘅門通常只限某一啲人進入，你係要嘟卡嘅1。
+但係！呢個係一個好重要嘅但係：我，作為一個住宿學生，係開唔到呢道門嘅。
+防火門應常關 但係你哋有冇聽過防火應正常「鎖」？裝呢種鎖喺逃生門簡直害死宿生。雖然，我有留意過如果大廈響 alarm 嘅話呢個鎖喺會解除嘅，但係：
+</description>
+    </item>
+    <item>
+      <title>花名</title>
+      <link>http://localhost:1313/zh/%E8%8A%B1%E5%90%8D/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/%E8%8A%B1%E5%90%8D/</guid>
+      <description>你有冇俾人改過花名？我就一定有啦！
+咪嘈 呢個係我小學某一個同學幫我改嘅，來源係我個英文名「Michael」，如果將 「ch」音讀出嚟嘅話，個音就好似「咪嘈！」。
+</description>
+    </item>
+  </channel>
+</rss>

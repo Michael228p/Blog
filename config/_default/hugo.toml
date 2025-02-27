@@ -4,7 +4,7 @@
 # baseURL = "https://your_domain.com/"
 
 # Site's language code
-languageCode = 'en-us'
+languageCode = 'zh-HK'
 
 title = "Michael 嘅棲息地"
 
@@ -21,7 +21,7 @@ enableEmoji = true
 enableRobotsTXT = true
 
 # Length of default summaries.
-summaryLength = 0
+summaryLength = 15
 
 # Build drafts during site generation.
 buildDrafts = true
