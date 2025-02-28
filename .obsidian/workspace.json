@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/AI 界的抄襲.md",
+                "file": "content/posts/最無聊嘅日子.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "AI 界的抄襲"
+              "title": "最無聊嘅日子"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/posts/最無聊嘅日子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Backlinks for 最無聊嘅日子"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/posts/最無聊嘅日子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _index"
+              "title": "Outgoing links from 最無聊嘅日子"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/posts/最無聊嘅日子.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline of 最無聊嘅日子"
             }
           }
         ]
@@ -170,36 +170,31 @@
   },
   "active": "5f7d5558023386b4",
   "lastOpenFiles": [
-    "themes/kayal/kayal/theme.toml",
-    "themes/kayal/kayal/static/fonts/Ubuntu-Regular.woff2",
-    "themes/kayal/kayal/static/fonts",
-    "themes/kayal/kayal/static",
-    "themes/kayal/kayal/package.json",
-    "themes/kayal/kayal/package-lock.json",
-    "themes/kayal/kayal/netlify.toml",
-    "themes/kayal/kayal/layouts/partials/single/toc.html",
-    "themes/kayal/kayal/layouts/partials/single/pagination.html",
-    "themes/kayal/kayal/layouts/partials/single/meta.html",
-    "themes/kayal/kayal/layouts/partials/single/meta-tags.html",
-    "themes/kayal/kayal/images/tn.png",
-    "themes/kayal/kayal/images/screenshot.png",
-    "themes/kayal/kayal/images/mobile.png",
-    "themes/kayal/kayal/assets/icons/youtube.svg",
-    "themes/kayal/kayal/assets/icons/xmark.svg",
-    "themes/kayal/kayal/assets/icons/xing.svg",
-    "themes/kayal/kayal/assets/icons/twitter.svg",
-    "themes/kayal/kayal/assets/icons/whatsapp.svg",
-    "themes/kayal/kayal/assets/icons/x-twitter.svg",
-    "themes/kayal/kayal/assets/icons/wand-magic-sparkles.svg",
-    "themes/kayal/kayal/archetypes/list.md",
-    "themes/kayal/kayal/archetypes/external.md",
-    "themes/kayal/kayal/archetypes/default.md",
-    "themes/kayal/kayal/README.md",
-    "content/posts/花名.md",
     "content/posts/AI 界的抄襲.md",
+    "content/posts/最無聊嘅日子.md",
     "content/posts/逃生門與電子鎖.md",
-    "().md",
+    "content/posts/花名.md",
     "content/_index.md",
+    "public/tags/日常/page/1/index.html",
+    "public/tags/日常/page/1",
+    "public/tags/日常/page",
+    "public/tags/日常/index.xml",
+    "public/tags/日常/index.html",
+    "public/tags/日常",
+    "public/posts/最無聊嘅日子/index.html",
+    "public/posts/最無聊嘅日子",
+    "assets/images/img5.webp",
+    "assets/images/img3.webp",
+    "assets/images/img6.webp",
+    "resources/_gen/images/images/img6_hu_5cd477d6c69b4a52.webp",
+    "resources/_gen/images/images/img6_hu_4b4edcab4e075db6.webp",
+    "resources/_gen/images/images/img6_hu_17ac19e0ddb2fd70.webp",
+    "resources/_gen/images/images/img6_hu_17908df38cfd0fec.webp",
+    "resources/_gen/images/images/img5_hu_a97e3102d3645498.webp",
+    "resources/_gen/images/images/img5_hu_a38f8e1b195c0d98.webp",
+    "resources/_gen/images/images/img5_hu_6d0b2f2a797c6688.webp",
+    "public/zh/tags/討論/page/1/index.html",
+    "public/zh/tags/#ai/page/1/index.html",
     "assets/images/im1.md",
     "content/posts/baat bun.md",
     "Untitled.md",

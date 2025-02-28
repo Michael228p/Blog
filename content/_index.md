@@ -4,7 +4,7 @@ date: 2025-02-26
 draft: false
 weight: 3
 coverImg: cover.webp
-hidden: true
+hidden: false
 externalURL: false
 showDate: true
 showModDate: true
