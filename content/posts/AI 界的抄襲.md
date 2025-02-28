@@ -18,7 +18,7 @@ showComments: false
 showHeadingAnchors: true
 summary: 
 tags:
-  - "#AI"
+  - AI
   - 討論
 ---
 

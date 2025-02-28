@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/最無聊嘅日子.md",
+                "file": "content/posts/逃生門與電子鎖.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "最無聊嘅日子"
+              "title": "逃生門與電子鎖"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/最無聊嘅日子.md",
+                "file": "content/posts/逃生門與電子鎖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 最無聊嘅日子"
+              "title": "Backlinks for 逃生門與電子鎖"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/最無聊嘅日子.md",
+                "file": "content/posts/逃生門與電子鎖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 最無聊嘅日子"
+              "title": "Outgoing links from 逃生門與電子鎖"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/最無聊嘅日子.md",
+                "file": "content/posts/逃生門與電子鎖.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 最無聊嘅日子"
+              "title": "Outline of 逃生門與電子鎖"
             }
           }
         ]
@@ -170,19 +170,21 @@
   },
   "active": "5f7d5558023386b4",
   "lastOpenFiles": [
-    "content/posts/AI 界的抄襲.md",
     "content/posts/最無聊嘅日子.md",
     "content/posts/逃生門與電子鎖.md",
     "content/posts/花名.md",
+    "content/posts/AI 界的抄襲.md",
+    "public/tags/ai/page/1/index.html",
+    "public/tags/ai/page/1",
+    "public/tags/ai/page",
+    "public/tags/ai/index.xml",
+    "public/tags/ai/index.html",
+    "public/tags/ai",
+    "public/tags/有趣/index.xml",
+    "public/tags/有趣/page/1/index.html",
+    "public/tags/有趣/page/1",
+    "public/tags/有趣/index.html",
     "content/_index.md",
-    "public/tags/日常/page/1/index.html",
-    "public/tags/日常/page/1",
-    "public/tags/日常/page",
-    "public/tags/日常/index.xml",
-    "public/tags/日常/index.html",
-    "public/tags/日常",
-    "public/posts/最無聊嘅日子/index.html",
-    "public/posts/最無聊嘅日子",
     "assets/images/img5.webp",
     "assets/images/img3.webp",
     "assets/images/img6.webp",
@@ -193,8 +195,6 @@
     "resources/_gen/images/images/img5_hu_a97e3102d3645498.webp",
     "resources/_gen/images/images/img5_hu_a38f8e1b195c0d98.webp",
     "resources/_gen/images/images/img5_hu_6d0b2f2a797c6688.webp",
-    "public/zh/tags/討論/page/1/index.html",
-    "public/zh/tags/#ai/page/1/index.html",
     "assets/images/im1.md",
     "content/posts/baat bun.md",
     "Untitled.md",
