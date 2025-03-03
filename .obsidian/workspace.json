@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/逃生門與電子鎖.md",
+                "file": "content/posts/對角行人過路處：後記/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "逃生門與電子鎖"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5eab2173c496b3d7",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/逃生門與電子鎖.md",
+                "file": "content/posts/對角行人過路處：後記/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 逃生門與電子鎖"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/逃生門與電子鎖.md",
+                "file": "content/posts/對角行人過路處：後記/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 逃生門與電子鎖"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/逃生門與電子鎖.md",
+                "file": "content/posts/對角行人過路處：後記/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 逃生門與電子鎖"
+              "title": "Outline of index"
             }
           }
         ]
@@ -168,33 +168,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f7d5558023386b4",
+  "active": "43814e155f9f6196",
   "lastOpenFiles": [
-    "content/posts/最無聊嘅日子.md",
-    "content/posts/逃生門與電子鎖.md",
-    "content/posts/花名.md",
-    "content/posts/AI 界的抄襲.md",
-    "public/tags/ai/page/1/index.html",
-    "public/tags/ai/page/1",
-    "public/tags/ai/page",
-    "public/tags/ai/index.xml",
-    "public/tags/ai/index.html",
-    "public/tags/ai",
-    "public/tags/有趣/index.xml",
-    "public/tags/有趣/page/1/index.html",
-    "public/tags/有趣/page/1",
-    "public/tags/有趣/index.html",
-    "content/_index.md",
-    "assets/images/img5.webp",
-    "assets/images/img3.webp",
+    "other/scramble.pdf.md",
+    "content/posts/對角行人過路處：後記/index.md",
+    "other",
     "assets/images/img6.webp",
-    "resources/_gen/images/images/img6_hu_5cd477d6c69b4a52.webp",
-    "resources/_gen/images/images/img6_hu_4b4edcab4e075db6.webp",
-    "resources/_gen/images/images/img6_hu_17ac19e0ddb2fd70.webp",
-    "resources/_gen/images/images/img6_hu_17908df38cfd0fec.webp",
-    "resources/_gen/images/images/img5_hu_a97e3102d3645498.webp",
-    "resources/_gen/images/images/img5_hu_a38f8e1b195c0d98.webp",
-    "resources/_gen/images/images/img5_hu_6d0b2f2a797c6688.webp",
+    "assets/images/img7.webp",
+    "content/_index.md",
+    "content/hidden/說明文.md",
+    "public/hidden/說明文/index.html",
+    "public/hidden/說明文",
+    "public/hidden/index.xml",
+    "public/hidden/page/1/index.html",
+    "public/hidden/untitled/index.html",
+    "public/hidden/page/1",
+    "public/hidden/untitled",
+    "public/hidden/page",
+    "public/hidden/index.html",
+    "public/posts/對角行人過路處後記/cover_hu_bbbe5cdde1138541.webp",
+    "resources/_gen/images/posts/對角行人過路處後記/cover_hu_bbbe5cdde1138541.webp",
+    "public/posts/對角行人過路處後記/cover_hu_2448be19fcf0e6e5.webp",
+    "resources/_gen/images/posts/對角行人過路處後記/cover_hu_2448be19fcf0e6e5.webp",
+    "public/posts/對角行人過路處後記/cover_hu_600f4db6ae573da8.webp",
+    "resources/_gen/images/posts/對角行人過路處後記/cover_hu_600f4db6ae573da8.webp",
+    "public/posts/對角行人過路處後記/cover_hu_289196c05805a1c2.webp",
+    "resources/_gen/images/posts/對角行人過路處後記/cover_hu_289196c05805a1c2.webp",
+    "content/posts/逃生門與電子鎖.md",
+    "content/posts/AI 界的抄襲.md",
+    "content/posts/最無聊嘅日子.md",
+    "content/posts/花名.md",
     "assets/images/im1.md",
     "content/posts/baat bun.md",
     "Untitled.md",
