@@ -3,7 +3,7 @@ title: 對角行人過路處：後記
 date: 2025-03-04T01:28:00+08:00
 draft: false
 weight: 1
-coverImg: "cover.webp"
+coverImg: cover.webp
 hidden: false
 externalURL: false
 showDate: true
@@ -18,6 +18,8 @@ showComments: false
 showHeadingAnchors: true
 summary: 
 tags:
+  - 日常
+  - 討論
 ---
 上個禮拜（2 月 24 號），我交功課交咗篇關於「對角行人過路處」嘅說明文。如果你有興趣，你可以喺[呢度](../../hidden/說明文)睇睇篇文。
 
@@ -47,7 +49,7 @@ tags:
 
 我覺得設立對角過路處嘅目的，只係合法化「對角過馬路」呢個行為。設立對角過路處之前其實好多人都會打斜過馬路（包括你同我，唔使扮嘢 🙂‍↔️）。我覺得政府唔使花咁多錢整呢啲人像燈。諷刺嘅係隔離十字路口好多學生都會咁樣打斜過馬路：
 
-![Webp Site](/images/img7.webp)
+![Webp Site](/images/img6.webp)
 
 整對角過路處嘅時候點解唔順便整埋呢度？
 

@@ -43,7 +43,7 @@ tags:
 我哋經常「抄襲」前人所留下嘅 libraries，利用他們再加上自己想要嘅功能。
 例如，我曾經為我嘅 Discord server 編寫一個 bot，有助我控制我嘅 Minecraft 伺服器。當中我「抄襲」咗 [MinnDevelopment](https://github.com/discord-jda/JDA/commits?author=MinnDevelopment) 嘅 [Java Discord API](https://github.com/discord-jda/JDA)。除此之外，有一半嘅 code 我係問 ChatGPT gen 出嚟。
 
-![Webp Site](/images/img6.webp)
+![Webp Site](/images/img5.webp)
 
 *（喺 Discord 中使用 Minecraft Server Handler 嘅情況。）*
 
@@ -71,5 +71,5 @@ tags:
 
 （P.S. 2 當我喺 ig search HKGAI V1 嘅時候，佢彈出咗好多同性戀相關嘅 account。）
 
-![Webp Site](/images/img5.webp)
+![Webp Site](/images/img4.webp)
 

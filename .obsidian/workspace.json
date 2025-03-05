@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/對角行人過路處：後記/index.md",
+                "file": "content/posts/新結他/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/對角行人過路處：後記/index.md",
+                "file": "content/posts/新結他/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/對角行人過路處：後記/index.md",
+                "file": "content/posts/新結他/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/對角行人過路處：後記/index.md",
+                "file": "content/posts/新結他/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,36 +168,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43814e155f9f6196",
+  "active": "5f7d5558023386b4",
   "lastOpenFiles": [
-    "other/scramble.pdf.md",
-    "content/posts/對角行人過路處：後記/index.md",
-    "other",
-    "assets/images/img6.webp",
-    "assets/images/img7.webp",
-    "content/_index.md",
-    "content/hidden/說明文.md",
-    "public/hidden/說明文/index.html",
-    "public/hidden/說明文",
-    "public/hidden/index.xml",
-    "public/hidden/page/1/index.html",
-    "public/hidden/untitled/index.html",
-    "public/hidden/page/1",
-    "public/hidden/untitled",
-    "public/hidden/page",
-    "public/hidden/index.html",
-    "public/posts/對角行人過路處後記/cover_hu_bbbe5cdde1138541.webp",
-    "resources/_gen/images/posts/對角行人過路處後記/cover_hu_bbbe5cdde1138541.webp",
-    "public/posts/對角行人過路處後記/cover_hu_2448be19fcf0e6e5.webp",
-    "resources/_gen/images/posts/對角行人過路處後記/cover_hu_2448be19fcf0e6e5.webp",
-    "public/posts/對角行人過路處後記/cover_hu_600f4db6ae573da8.webp",
-    "resources/_gen/images/posts/對角行人過路處後記/cover_hu_600f4db6ae573da8.webp",
-    "public/posts/對角行人過路處後記/cover_hu_289196c05805a1c2.webp",
-    "resources/_gen/images/posts/對角行人過路處後記/cover_hu_289196c05805a1c2.webp",
-    "content/posts/逃生門與電子鎖.md",
     "content/posts/AI 界的抄襲.md",
     "content/posts/最無聊嘅日子.md",
+    "content/posts/逃生門與電子鎖.md",
     "content/posts/花名.md",
+    "content/posts/對角行人過路處：後記/index.md",
+    "content/posts/新結他/index.md",
+    "public/tags/音樂/page/1/index.html",
+    "public/tags/音樂/page/1",
+    "public/tags/音樂/page",
+    "public/tags/音樂/index.xml",
+    "public/tags/音樂/index.html",
+    "public/tags/音樂",
+    "content/hidden/說明文.md",
+    "assets/images/img1.webp",
+    "public/posts/新結他/vid2.mp4",
+    "content/posts/新結他/vid2.mp4",
+    "public/images/img8_hu_85976e5f2cd0dc26.webp",
+    "resources/_gen/images/images/img8_hu_85976e5f2cd0dc26.webp",
+    "public/images/img8_hu_b0297ef60abefd13.webp",
+    "resources/_gen/images/images/img8_hu_b0297ef60abefd13.webp",
+    "public/images/img8_hu_b227c4041bb58b0d.webp",
+    "resources/_gen/images/images/img8_hu_b227c4041bb58b0d.webp",
+    "public/images/img8_hu_a031b5f4a5ef301f.webp",
+    "resources/_gen/images/images/img8_hu_a031b5f4a5ef301f.webp",
+    "assets/images/img8.webp",
+    "public/posts/新結他/vid1.mp4",
+    "public/posts/新結他/新結他/index.html",
+    "content/posts/Untitled.md",
+    "other/scramble.pdf.md",
+    "content/_index.md",
     "assets/images/im1.md",
     "content/posts/baat bun.md",
     "Untitled.md",
