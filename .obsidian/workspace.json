@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/新結他/index.md",
+                "file": "content/posts/Musicianship.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Musicianship"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/新結他/index.md",
+                "file": "content/posts/花名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 花名"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/新結他/index.md",
+                "file": "content/posts/花名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from 花名"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/新結他/index.md",
+                "file": "content/posts/花名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 花名"
             }
           }
         ]
@@ -170,12 +170,16 @@
   },
   "active": "5f7d5558023386b4",
   "lastOpenFiles": [
-    "content/posts/AI 界的抄襲.md",
     "content/posts/最無聊嘅日子.md",
+    "content/posts/AI 界的抄襲.md",
+    "content/posts/Musicianship.md",
     "content/posts/逃生門與電子鎖.md",
     "content/posts/花名.md",
-    "content/posts/對角行人過路處：後記/index.md",
     "content/posts/新結他/index.md",
+    "public/posts/musicianship/index.html",
+    "public/posts/musicianship",
+    "content/posts/對角行人過路處：後記/index.md",
+    "content/posts/對角行人過路處：後記/cover.webp",
     "public/tags/音樂/page/1/index.html",
     "public/tags/音樂/page/1",
     "public/tags/音樂/page",
@@ -194,10 +198,6 @@
     "resources/_gen/images/images/img8_hu_b227c4041bb58b0d.webp",
     "public/images/img8_hu_a031b5f4a5ef301f.webp",
     "resources/_gen/images/images/img8_hu_a031b5f4a5ef301f.webp",
-    "assets/images/img8.webp",
-    "public/posts/新結他/vid1.mp4",
-    "public/posts/新結他/新結他/index.html",
-    "content/posts/Untitled.md",
     "other/scramble.pdf.md",
     "content/_index.md",
     "assets/images/im1.md",
