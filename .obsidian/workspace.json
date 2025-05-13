@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Musicianship.md",
+                "file": "content/posts/脊柱側彎.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Musicianship"
+              "title": "脊柱側彎"
             }
           }
         ]
@@ -170,10 +170,13 @@
   },
   "active": "5f7d5558023386b4",
   "lastOpenFiles": [
+    "content/posts/逃生門與電子鎖.md",
+    "content/posts/Musicianship.md",
+    "content/posts/脊柱側彎.md",
+    "assets/images/img9.webp",
+    "assets/images/img8.webp",
     "content/posts/最無聊嘅日子.md",
     "content/posts/AI 界的抄襲.md",
-    "content/posts/Musicianship.md",
-    "content/posts/逃生門與電子鎖.md",
     "content/posts/花名.md",
     "content/posts/新結他/index.md",
     "public/posts/musicianship/index.html",
@@ -196,8 +199,6 @@
     "resources/_gen/images/images/img8_hu_b0297ef60abefd13.webp",
     "public/images/img8_hu_b227c4041bb58b0d.webp",
     "resources/_gen/images/images/img8_hu_b227c4041bb58b0d.webp",
-    "public/images/img8_hu_a031b5f4a5ef301f.webp",
-    "resources/_gen/images/images/img8_hu_a031b5f4a5ef301f.webp",
     "other/scramble.pdf.md",
     "content/_index.md",
     "assets/images/im1.md",
